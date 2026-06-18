@@ -28,14 +28,11 @@ The project focused on:
 - regional differences
 - opportunities for customer retention and growth
 
-## Key Findings
+## Project Files
 
-Add your own final findings here.
+- [`adventureworks_customer_dashboard.pdf`](adventureworks_customer_dashboard.pdf) — Power BI dashboard export.
+- [`adventureworks_business_findings.pdf`](adventureworks_business_findings.pdf) — detailed findings and business recommendations.
+- [`adventureworks_customer_analysis_presentation.pdf`](adventureworks_customer_analysis_presentation.pdf) — presentation summarizing the project, insights, and proposed actions.
+- [`adventureworks_customer_analysis.pbix`](adventureworks_customer_analysis.pbix) — Power BI source file.
 
-## Recommendations
 
-Add your business recommendations here.
-
-## Dataset
-
-This project uses the publicly available AdventureWorks dataset.
