@@ -4,6 +4,12 @@
 
 The goal of this project was to analyze wholesale customer activity, identify inactive and at-risk customers, evaluate revenue concentration, and provide practical business recommendations.
 
+## Dataset
+
+This project uses the publicly available Microsoft AdventureWorks sample database.
+
+Dataset source: [Microsoft AdventureWorks Sample Databases](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure)
+
 ## Tools
 
 - Power BI
