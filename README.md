@@ -1,4 +1,4 @@
-# AdventureWorks Customer Analysis
+# AdventureWorks Wholesale Customer Analysis
 
 ## Project Objective
 
